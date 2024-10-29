@@ -1,0 +1,6 @@
+langchain
+langchain-community==0.3.2
+langchain-google-genai
+langchain_google_vertexai
+vertexai
+langchain-google-community[featurestore]
